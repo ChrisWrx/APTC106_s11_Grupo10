@@ -194,16 +194,3 @@ Para utilizar las funcionalidades de autocompletado y cálculo de distancias, es
 - Emulador Android / iOS o dispositivo físico
 - 500 MB de espacio libre
 
-## Autores
-
-Grupo 10 - APTC106 Sección 9  
-Taller de Desarrollo Web y Móvil  
-Instituto Profesional AIEP
-
-## Licencia
-
-Este proyecto fue desarrollado con fines educativos para la asignatura Taller de Desarrollo Web y Móvil.
-
-## Contacto y Soporte
-
-Para consultas o reportar problemas, contactar al equipo de desarrollo a través del repositorio del proyecto.
